@@ -13,7 +13,7 @@
 ---
 
 ### 🌐 Demonstração ao Vivo
-🔗 **Acesse o projeto rodando:** [Clique aqui para visualizar](https://pedro-creatordev.github.io/relogio-digital-sccp/)
+🔗 **Acesse o projeto rodando:** [Clique aqui para visualizar](https://pedro-creatordev.github.io/Relogio-digital-SCCP/)
 
 ---
 
