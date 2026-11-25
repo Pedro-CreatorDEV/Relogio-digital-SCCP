@@ -38,3 +38,7 @@ A partir da estrutura base da aula, **adaptei e personalizei o projeto aos meus 
 ├── Sccp/            # Recursos adicionais do tema
 ├── index.html       # Estrutura semântica da aplicação
 └── README.md        # Documentação do projeto
+```
+
+### 👨‍💻 Autor
+Desenvolvido e personalizado por **Pedro Amaral** — *Estudante de Engenharia de Software*.
