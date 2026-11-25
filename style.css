@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family= Open + Sans:wght@300 & display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+body {
+    width: 100%;
+    padding:30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient( to left,rgb(0, 0, 0), rgb(156, 0, 0), rgb(0, 0, 0), rgb(117, 7, 7), rgb(139, 6, 6));
+    background-size: 500% 100%;
+    animation:degrade-animado 5s infinite alternate;
+    
+}
+
+@keyframes degrade-animado{
+    0%{
+        background-position-x:0%;
+    }
+    100%{
+        background-position-x:100% ;
+        }   
+    }
+
+.relogio {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 200px;
+    width: 550px;
+    background: transparent;
+    border-radius: 5px;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.5);
+    animation:degrade-animado 5s infinite alternate;
+}
+.relogio div{
+    height: 170px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:#fff;
+    background: rgba(5,5,5,0.9);
+    box-shadow: 5px 5px 15px rgba(0,0,0, .7);
+    border-radius: 7px;
+    letter-spacing: 5px;
+    
+}
+
+.relogio span{
+    font-weight: bolder;
+    font-size: 80px;
+
+}
+.relogio span.tempo{
+    font-size: 12.5px;
+}
+  img{
+    display:flex;
+    align-items:-moz-popup;
+ }
+ .audio{
+    
+ }
